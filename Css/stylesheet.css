@@ -5,7 +5,7 @@ background-color: bisque;
 margin: auto;
 border: black solid 5px;
 color: black;
-height: 175px;
+height: 200px;
 padding: 10px 10px 30px 10px;
 
 }
@@ -17,4 +17,14 @@ li {
 text-decoration: none;
 display: inline;
 padding: 14px 16px;
+}
+
+footer {
+
+    background-color: chocolate;
+    height: 50px;
+}
+
+h1{
+    ;
 }
