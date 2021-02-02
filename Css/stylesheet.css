@@ -1,10 +1,20 @@
 header{
 font-size: 100px;
+font-family:cursive;
 background-color: bisque;
+margin: auto;
+border: black solid 5px;
 color: black;
-height: 150px;
-padding: 10px;
+height: 175px;
+padding: 10px 10px 30px 10px;
 
+}
+nav ul {
+    float: left;
+}
 
-
+li {
+text-decoration: none;
+display: inline;
+padding: 14px 16px;
 }
